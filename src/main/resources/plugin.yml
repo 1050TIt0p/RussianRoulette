@@ -1,0 +1,6 @@
+name: RussianRoulette
+version: '${project.version}'
+main: ru.matveylegenda.russianroulette.RussianRoulette
+api-version: '1.16'
+libraries:
+  - net.dv8tion:JDA:5.0.0-beta.20
